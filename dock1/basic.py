@@ -21,11 +21,8 @@ def decimalToBinary(n):
 
 
 
-# Driver code
-# Function to convert decimal to binary
 
 # Driver Code
-#num = "1010101111";
 print(binaryToDecimal("10101011"));
 print(decimalToBinary(8));
-#decToBinary(17);
+
