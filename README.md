@@ -13,7 +13,7 @@
 
 ### Dockerfile
 
-  It contains all the necessary configurations to run a python image on docker.
+  It contains all the necessary configurations to run a python image on docker. This image will execute the basic.py file.
 
 ### basic file
 
