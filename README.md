@@ -19,6 +19,12 @@
   It is a simple python program to convert binary to deciaml and decimal to binary. It was kept simple for more clear implementation of DevOps.
 
 
+### basic_test file
+
+  This is the file which contains total of 12 test cases for the 2 functions created in basic python file.
+  
+  
+  
 ### Installation
 
 For the docker implementation:
