@@ -6,9 +6,10 @@
 ## This repository contains following files:
   - .travis.yml for Travis CI 
   - dock1 folder:
-        -Dockerfile
-        -basic.py 
-        -basic_test.py
+          
+          -Dockerfile
+          -basic.py 
+          -basic_test.py
 
 ### Dockerfile
 
