@@ -26,9 +26,9 @@
   
   
   
-### Installation
+### Execution
 
-For the docker implementation:
+#### For the docker implementation:
     -- First clone the project
     -- Go to the project directory
 ```sh
@@ -38,6 +38,6 @@ $ docker build .
 
     $ docker run container ID
 
-For Travis CI 
+#### For Travis CI 
 -- I have attached the required screnshots of test cases successfully passing. 
 
